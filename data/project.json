@@ -23,13 +23,19 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": false,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "lwjameson",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [],
       "tags": []
     },
     "created_at": "2025-05-14T16:15:30.700Z",
-    "updated_at": "2025-05-14T16:26:44.758Z",
+    "updated_at": "2025-05-14T16:28:56.239Z",
     "generate_pages_site": true
   },
   "annotations": {},
