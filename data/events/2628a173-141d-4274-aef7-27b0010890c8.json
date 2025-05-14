@@ -1,14 +1,5 @@
 {
   "audiovisual_files": {
-    "7044c45f-ecbe-44d3-987d-715f9b164667": {
-      "label": "",
-      "file_type": "Audio",
-      "is_offline": false,
-      "file_url": "",
-      "duration": 90,
-      "duration_overridden": false,
-      "caption_set": []
-    },
     "56faaaa4-758e-4a7e-91b5-bd4bd93d7763": {
       "label": "EB Moose 1978",
       "is_offline": false,
@@ -35,6 +26,9 @@
   "label": "EB \"The Moose\"",
   "created_at": "2025-05-14T16:16:47.733Z",
   "created_by": "absempere",
-  "updated_at": "2025-05-14T16:16:47.733Z",
-  "updated_by": "absempere"
+  "updated_at": "2025-05-14T16:30:00.176Z",
+  "updated_by": "absempere",
+  "av_file_order": [
+    "56faaaa4-758e-4a7e-91b5-bd4bd93d7763"
+  ]
 }
