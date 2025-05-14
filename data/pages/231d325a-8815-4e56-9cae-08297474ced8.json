@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-05-14T17:03:07.080Z",
+  "created_by": "absempere",
+  "title": "EB \"The Filling Station\" 1",
+  "slug": "eb-the-filling-station-1",
+  "updated_at": "2025-05-14T17:03:07.080Z",
+  "updated_by": "absempere",
+  "parent": "eef590f4-903c-4716-971c-7f7ea176d0f8",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "99bdca11-8877-48ac-9b4b-b471e7aaa806"
+  }
+}
