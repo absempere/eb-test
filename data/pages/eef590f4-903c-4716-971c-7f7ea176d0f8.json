@@ -3,10 +3,10 @@
   "created_at": "2025-05-14T16:15:30.722Z",
   "created_by": "absempere",
   "title": "Elizabeth Bishop Test Project",
-  "updated_at": "2025-05-14T16:18:49.953Z",
+  "updated_at": "2025-05-19T18:49:17.030Z",
   "updated_by": "absempere",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
