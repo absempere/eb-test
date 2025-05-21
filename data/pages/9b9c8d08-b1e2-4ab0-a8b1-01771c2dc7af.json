@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "2628a173-141d-4274-aef7-27b0010890c8",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-05-14T16:16:47.902Z",
   "created_by": "absempere",
   "title": "EB \"The Moose\"",
   "slug": "eb-the-moose",
-  "updated_at": "2025-05-14T16:16:47.902Z",
+  "updated_at": "2025-05-21T16:21:14.586Z",
   "updated_by": "absempere",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "2628a173-141d-4274-aef7-27b0010890c8"
   }
