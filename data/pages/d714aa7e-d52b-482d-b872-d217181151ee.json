@@ -1,0 +1,123 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "2628a173-141d-4274-aef7-27b0010890c8",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 10,
+      "end": 45,
+      "file": "56faaaa4-758e-4a7e-91b5-bd4bd93d7763",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "table-of-contents",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Adding some text, as well."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Test page",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "test-page",
+  "created_at": "2025-06-18T16:57:50.512Z",
+  "created_by": "absempere",
+  "updated_at": "2025-06-18T16:57:50.512Z",
+  "updated_by": "absempere"
+}
