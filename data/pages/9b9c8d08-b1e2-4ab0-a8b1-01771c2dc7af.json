@@ -35,11 +35,12 @@
   "created_by": "absempere",
   "title": "EB \"The Moose\"",
   "slug": "eb-the-moose",
-  "updated_at": "2025-05-21T16:21:14.586Z",
+  "updated_at": "2025-06-20T16:13:40.674Z",
   "updated_by": "absempere",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "2628a173-141d-4274-aef7-27b0010890c8"
-  }
+  },
+  "parent": "eef590f4-903c-4716-971c-7f7ea176d0f8"
 }
